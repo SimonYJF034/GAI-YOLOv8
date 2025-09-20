@@ -1,0 +1,13 @@
+# dataset path
+path: D:\BaiduNetdiskDownload\paper # dataset root dir
+train: D:\BaiduNetdiskDownload\paper\images\train  # train images (relative to 'path') 118287 images
+val: D:\BaiduNetdiskDownload\paper\images\val # val images (relative to 'path') 5000 images
+test: D:\BaiduNetdiskDownload\paper\images\test
+
+# number of classes
+nc: 3
+
+
+# class names
+names: ['single fish', 'multiple fish', 'fish school']
+
